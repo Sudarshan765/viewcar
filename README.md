@@ -12,7 +12,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/manasvikhandelwal07/view-car.git
 cd project_next13_car_showcase
 ```
 
